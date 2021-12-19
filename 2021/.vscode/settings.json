@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/paan/miniforge3/envs/PrivyCoustics/bin/python",
+  "python.formatting.provider": "black"
+}
